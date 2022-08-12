@@ -29,4 +29,4 @@ Guide to implement a complete layer
 <hr>
 8.create the form with the different fields
 <hr>
-9.create the database on phpmyadmin
+9.create the database 
